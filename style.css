@@ -23,21 +23,22 @@ body {
   border-radius: 1.2rem;
   padding: 1rem;
   font-family: "Poppins", sans-serif;
+  overflow: hidden;
 }
 
-.text{
+.text {
   width: 70%;
 }
 
 .cookie-title {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: lighter;
 }
 
 .cookie-subtitle {
   font-weight: bold;
-  font-size: 0.7rem;
-  padding: 0.5rem 0rem;
+  font-size: 0.6rem;
+  padding: 0.7rem 0rem;
 }
 
 button {
@@ -46,7 +47,7 @@ button {
   color: #4f2626;
   cursor: pointer;
   font-family: "Poppins", sans-serif;
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   font-weight: bold;
   border-radius: 0.3rem;
 }
