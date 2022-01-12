@@ -4,10 +4,6 @@
   box-sizing: border-box;
 }
 
-body {
-  /* height: 100vh; */
-}
-
 .cookie-container {
   background: linear-gradient(260deg, #9b6c50 0%, #4f2626 100%);
   position: absolute;
@@ -28,6 +24,10 @@ body {
 
 .text {
   width: 70%;
+}
+
+.cookie {
+  overflow: visible;
 }
 
 .cookie-title {
